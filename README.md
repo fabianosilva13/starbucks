@@ -1,4 +1,4 @@
-<h1>Easy Shopping</h1>
+<h1>Starbucks</h1>
 <br>
 <br>
 <h2>Esse foi meu primeiro projeto Starbucks que aprendi no <a href="https://Rodolfomori.com.br/devclub">DEvClub</a></h2>
