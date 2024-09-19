@@ -7,8 +7,8 @@
 <h2>Tecnologia utilizadas</h2>
 <br>
 <br>
-<p>HTML</p>
-<P>CSS</P>
+<p><b>-HTML</b></p>
+<P><b>-CSS</b></P>
 <br>
 
 ![image](https://github.com/user-attachments/assets/7976ec9c-490a-4088-a95c-80724af670ac)
